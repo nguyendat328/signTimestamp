@@ -1,0 +1,7 @@
+keystore:
+  path: D:\test\datnt.p12
+  password: 123
+  certificate-alias: "nguyễn tiến đạt"
+
+timestamp-authority:
+  url: http://tsa01.trustca.vn:8777/adss/tsa
